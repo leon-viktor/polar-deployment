@@ -6,6 +6,7 @@ resources:
 
 patchesStrategicMerge:
 - patch-env.yml
+- patch-tracing.yml
 - patch-resources.yml
 - patch-volumes.yml
 
