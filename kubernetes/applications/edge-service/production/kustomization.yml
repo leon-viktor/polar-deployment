@@ -20,7 +20,7 @@ configMapGenerator:
 images:
 - name: edge-service
   newName: ghcr.io/leon-viktor/edge-service
-  newTag: 8d003f9d0fa095dd344d4656d0242277a6c06165
+  newTag: c4affc79d5c7228cb9000bc054fec4bf26df5044
 
 replicas:
 - count: 1
